@@ -7,8 +7,8 @@
 		"128": "/img/icon-128x128.png"
 	},
 	"developer": {
-		"name": "Binoy Patel",
-		"url": "https://github.com/binoy14"
+		"name": "Chakradhar Singanamalla",
+		"url": "https://github.com/chakradhar-s/webpack_stactic"
 	},
 	"installs_allowed_from": [
 		"*"
